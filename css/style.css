@@ -60,6 +60,7 @@ nav ul li a:hover {
   text-decoration: none;
   background-color: red;
  float: right;
+ position: fixed;
  
  
  
