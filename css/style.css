@@ -43,6 +43,13 @@ nav ul li a:hover {
  #sidebar-container ul {
  list-style-type: none;
  }
+
+#sidebar-container ul li {
+  float: left;
+  height: 100%;
+  width: 20%;
+  position: fixed; 
+}
   
  position: fixed;
  right:0%;
