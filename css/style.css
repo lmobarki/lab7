@@ -1,0 +1,32 @@
+#main-navbar nav {
+  background-color: #01263a;
+}
+
+#main-navbar nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+#main-navbar nav ul li {
+  float: left;
+}
+
+#main-navbar nav ul li a {
+  display: block;
+  padding: 20px 40px;
+  font-size: 20px;
+  color: #f0f6fc;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Aprial, sane-serif;
+  text-align: center;
+}
+
+nav ul li a:hover {
+  background-color: #2271b1;
+  color: #000;
+}
