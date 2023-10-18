@@ -42,7 +42,7 @@ nav ul li a:hover {
 
  #sidebar-container {
   position: fixed;
-  right:0%;
+  right:50%;
   background-color: red;
   height: 100%;
   width: 20%;
@@ -58,6 +58,7 @@ nav ul li a:hover {
   padding: 15px 0;
   color: #fff;
   text-decoration: none;
+  background-color: red;
  
  
  
