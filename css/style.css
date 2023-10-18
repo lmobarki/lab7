@@ -24,6 +24,7 @@ nav ul li a {
   text-align: center;
   left: 50%; 
   right: 50%;
+  width: 100%; 
 }
 
 nav ul li a:hover {
