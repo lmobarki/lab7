@@ -50,6 +50,7 @@ nav ul li a:hover {
 }
 #sidebar-container ul li a {
   display: block;
+  position: fixed;
   background-color: red;
   color: #fff
   padding: 15px 0
