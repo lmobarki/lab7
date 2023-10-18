@@ -59,8 +59,12 @@ nav ul li a:hover {
   color: #fff;
   text-decoration: none;
   background-color: red;
- float: right;
- position: fixed;
+  height: 100%;
+  right:0%;
+  width: 20%;
+  text-align: center;
+  position: relative;
+
  
  
  
