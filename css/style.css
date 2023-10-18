@@ -42,14 +42,24 @@ nav ul li a:hover {
 }
  #sidebar-container ul {
  list-style-type: none;
+ padding: 0
  }
 
 #sidebar-container ul li {
  height: 100%;
  width: 20%;
-  
  
 }
+#sidebar-container ul li a {
+  display: block;
+  color: #fff
+  padding: 15px 0
+  right:0%;
+  text-decoration: none;
+  position: fixed;      
+}
+#sidebar-container ul li a:hover {
+  background-color: #000;
   
  position: fixed;
  right:0%;
