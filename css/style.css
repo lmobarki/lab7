@@ -12,7 +12,8 @@
 
 nav ul li {
   float: left;
-  width: 100%; 
+  width: 100%;
+  position: relative; 
 }
 
 nav ul li a {
