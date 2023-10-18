@@ -60,7 +60,7 @@ nav ul li a:hover {
   text-decoration: none;
   background-color: red;
   height: 100%;
-  right:50%;
+  left:0%;
   width: 20%;
   text-align: center;
   position: relative;
