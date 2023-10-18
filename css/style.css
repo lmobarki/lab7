@@ -37,8 +37,7 @@ nav ul li a:hover {
 }
 
 
- #sidebar-container {
-  background-color: red;
+ 
 }
  #sidebar-container ul {
  list-style-type: none;
@@ -46,17 +45,19 @@ nav ul li a:hover {
  }
 
 #sidebar-container ul li {
- height: 100%;
- width: 20%;
- right:0%;
+ padding: 0;
  
 }
 #sidebar-container ul li a {
   display: block;
+  background-color: red;
   color: #fff
   padding: 15px 0
   right:0%;
-  text-decoration: none;      
+  width: 20%;
+  text-align: center;
+  text-decoration: none; 
+ padding: 15px 0;
 }
 #sidebar-container ul li a:hover {
   background-color: #000;
