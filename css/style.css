@@ -37,7 +37,10 @@ nav ul li a:hover {
 }
 
 
- sidebar li {
+ sidebar-container ul {
+ list-style-type: none;
+ }
+  
  position: fixed;
  right:0%;
  background-color: red;
