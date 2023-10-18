@@ -16,11 +16,10 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  display: block;
-  padding: 10px 20px;
+  background-color: blue;
   color: #fff
+  padding: 10px 20px;
   text-decoration: none;
-  font-weight: bold;
   text-transform: uppercase;
   font-family: Aprial, sane-serif;
   text-align: center;
