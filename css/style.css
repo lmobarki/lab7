@@ -22,7 +22,7 @@ nav ul li a {
   text-decoration: none;
   text-transform: uppercase;
   font-family: Aprial, sane-serif;
-  text-align: center;
+  position: relative; 
   left: 50%; 
   right: 50%;
    
