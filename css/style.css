@@ -45,8 +45,10 @@ nav ul li a:hover {
  }
 
 #sidebar-container ul li {
+ height: 100%;
+ width: 20%;
   
-  position: fixed; 
+ 
 }
   
  position: fixed;
