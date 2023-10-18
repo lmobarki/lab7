@@ -1,5 +1,5 @@
  nav {
-  background-color: #01263a;
+  background-color: #blue;
 }
 
  nav ul {
@@ -27,6 +27,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #2271b1;
+  background-color: #000;
+  text-decoration: underline overline;
   color: #000;
 }
