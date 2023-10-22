@@ -17,6 +17,8 @@ nav ul li {
   float: left;
   position: relative;
   display: block;
+  left: 50%; 
+  right: 50%;
 }
 
 nav ul li a {
@@ -29,14 +31,12 @@ nav ul li a {
   text-transform: uppercase;
   font-family: Aprial, sane-serif;
   position: relative; 
-  left: 50%; 
-  right: 50%;
+  text-decoration: underline overline;
   
 }
 
 nav ul li a:hover {
   background-color: #blue;
-  text-decoration: underline overline;
   
 }
 
