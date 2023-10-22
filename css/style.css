@@ -47,9 +47,6 @@ nav ul li a:hover {
  #sidebar-container ul {
  list-style-type: none;
  padding: 0;
- position: static;
- top: 50px;
- right: 0px
  }
 
 #sidebar-container ul li a {
@@ -62,7 +59,9 @@ nav ul li a:hover {
   right:0%;
   width: 20%;
   text-align: center;
-  text-align: center;
+  position: static;
+  top: 50px;
+  right: 0px
  
 }
 #sidebar-container ul li a:hover {
