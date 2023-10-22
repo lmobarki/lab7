@@ -2,7 +2,6 @@
   background-color: #000;
   margin: 0; 
   padding: 0;
-  position: relative;
 }
 
  nav ul {
@@ -11,8 +10,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  position: relative;
-
+ 
 }
 
 nav ul li {
