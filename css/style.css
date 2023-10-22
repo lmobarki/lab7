@@ -1,12 +1,9 @@
  nav {
   background-color: #000;
-  margin: 0; 
-  padding: 0;
 }
 
  nav ul {
   list-style-type: none;
-  background-color: #000;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -15,14 +12,11 @@
 
 nav ul li {
   float: left;
-  position: relative;
-  display: block;
-  left: 50%; 
-  right: 50%;
 }
 
 nav ul li a {
   text-decoration: none;
+  background-color: blue;
   display: block;
   color: #fff
   width: 100%
