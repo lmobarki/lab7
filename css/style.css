@@ -42,7 +42,6 @@ nav ul li a:hover {
 
  #sidebar-container {
   background-color: red;
-  position: absolute;
   
 }
  #sidebar-container ul {
@@ -61,6 +60,7 @@ nav ul li a:hover {
   width: 20%;
   text-align: center;
   text-align: center;
+  position: relative;
  
 }
 #sidebar-container ul li a:hover {
