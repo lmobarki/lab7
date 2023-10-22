@@ -7,9 +7,6 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  left: 50%; 
-  right: 50%;
- 
 }
 
 nav ul li {
@@ -28,6 +25,8 @@ nav ul li a {
   font-family: Aprial, sane-serif;
   position: relative; 
   text-decoration: underline overline;
+  left: 50%; 
+  right: 50%;
 
   
 }
