@@ -57,12 +57,9 @@ nav ul li a:hover {
 
 #sidebar-container ul li a {
   display: block;
-  padding: 15px 0;
   color: #fff;
   text-decoration: none;
   height: 100%;
-  right:0%;
-  width: 20%;
   text-align: center;
   background-color: red; 
 
