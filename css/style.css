@@ -39,8 +39,8 @@ nav ul li a:hover {
 
 
 #sidebar {
-    position: fixed;
-    
+   
+     right: 0;
    
 }
 
@@ -60,7 +60,7 @@ text-decoration: none;
   height: 100%;
  padding: 15px 0;
   width: 20%;
- right: 0;
+ position: fixed;
 
 }
 #sidebar-container ul li a:hover {
