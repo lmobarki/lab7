@@ -16,16 +16,14 @@ nav {
 nav ul {
   list-style-type: none;
   padding: 0;
-  text-align: center;
+  right:50%;
+  left: 50%;
  
 
 }
 
 nav ul li {
     float: left;
-    right:50%;
-    left: 50%;
-    text-align: center;
  
 }
 
@@ -33,7 +31,8 @@ nav ul li a {
   text-decoration: none;
   text-transform: uppercase;
   font-family: Aprial, sane-serif;
-  text-align: center;
+  right:50%;
+  left: 50%;
   display: block;
   padding: 10px 20px;
 
