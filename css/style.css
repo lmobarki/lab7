@@ -5,6 +5,8 @@ body {
 
 nav {
   background-color: blue;
+  left: 50%; 
+  right: 50%;
 }
 
 nav ul {
@@ -12,8 +14,6 @@ nav ul {
   overflow: hidden;
   margin: 0;
   padding: 0;
-  left: 50%; 
-  right: 50%;
 }
 
 nav ul li {
