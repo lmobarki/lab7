@@ -37,16 +37,15 @@ nav ul li a:hover {
 }
 
 
-#sidebar {
-    right: 0;
-  position: static;
- top: 50px;
- right: 0px
-}
+
 
  #sidebar-container ul {
  list-style-type: none;
  padding: 0;
+  right: 0;
+ position: static;
+ top: 50px;
+ right: 0px
 
  }
   
