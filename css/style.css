@@ -8,7 +8,7 @@ nav {
   overflow: hidden;
   color: #fff
   width: 100%
-  position: fixed;
+  position: relative;
   margin: 0;
   padding: 0;
   text-align: center;
