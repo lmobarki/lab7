@@ -61,6 +61,7 @@ text-decoration: none;
  padding: 15px 0;
   width: 20%;
  position: fixed;
+ right: 0;
 
 }
 #sidebar-container ul li a:hover {
