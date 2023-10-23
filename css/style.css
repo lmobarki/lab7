@@ -16,6 +16,8 @@ nav ul {
 
 nav ul li {
   float: left;
+  left: 50%; 
+  right: 50%;
 }
 
 nav ul li a {
@@ -29,8 +31,6 @@ nav ul li a {
   font-family: Aprial, sane-serif;
   position: relative; 
   text-decoration: underline overline;
-  left: 50%; 
-  right: 50%;
 
   
 }
