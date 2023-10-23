@@ -37,23 +37,35 @@ nav ul li a:hover {
 }
 
 
- 
-}
 
  #sidebar-container {
-   position: fixed;
-    right: 0;
-    width: 20%;
-    height: 100%;
-    background-color: red;
-    text-align: center;
-    padding: 15px 0;
-    list-style: none;
+background-color: red;
+
+ }
+
+
+ #sidebar-container ul {
+ list-style-type: none;
+ padding: 0;
+ }
   
 
 
 #sidebar-container ul li a {
- text-decoration: none;
-    color: #fff;
+ display: block;
+  padding: 15px 0;
+  color: #fff;
+  text-decoration: none;
+  background-color: red;
+  height: 100%;
+  right:0%;
+  width: 20%;
+  text-align: center;
+  position: static;
+  top: 50px;
+  right: 0px
+
 }
+#sidebar-container ul li a:hover {
+  background-color: #000;
 
