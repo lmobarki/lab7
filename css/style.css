@@ -12,12 +12,12 @@ nav ul {
   overflow: hidden;
   margin: 0;
   padding: 0;
+  left: 50%; 
+  right: 50%;
 }
 
 nav ul li {
   float: left;
-  left: 50%; 
-  right: 50%;
 }
 
 nav ul li a {
