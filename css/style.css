@@ -38,10 +38,7 @@ nav ul li a:hover {
 
 
 
- #sidebar-container {
-background-color: red;
 
- }
 
 
  #sidebar-container ul {
@@ -63,6 +60,7 @@ background-color: red;
   position: static;
   top: 50px;
   right: 0px
+ background-color: red;
 
 }
 #sidebar-container ul li a:hover {
