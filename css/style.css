@@ -38,6 +38,14 @@ nav ul li a:hover {
 
 
 
+#sidebar {
+    position: fixed;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    background-color: red;
+    text-align: center;
+    padding: 15px 0;
 
 
  #sidebar-container ul {
@@ -45,22 +53,11 @@ nav ul li a:hover {
  padding: 0;
  }
   
-#sidebar-container ul li {
- 
-}
 
 
 #sidebar-container ul li a {
- display: block;
-  padding: 15px 0;
-  color: #fff;
-  text-decoration: none;
-  height: 100%;
-  right:0%;
-  width: 20%;
-  text-align: center;
-  position: static;
-  background-color: red;
+text-decoration: none;
+    color: #fff;
 
 }
 #sidebar-container ul li a:hover {
