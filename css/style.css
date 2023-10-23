@@ -5,7 +5,6 @@ body {
 
 nav {
   background-color: blue;
-  text-align: center;
 }
 
 nav ul {
@@ -30,6 +29,7 @@ nav ul li a {
   font-family: Aprial, sane-serif;
   position: relative; 
   text-decoration: underline overline;
+  text-align: center;
 
   
 }
