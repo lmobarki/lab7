@@ -6,8 +6,6 @@ body {
 nav {
   background-color: blue;
   overflow: hidden;
-  color: #fff
-  width: 100%
   position: relative;
   margin: 0;
   padding: 0;
@@ -16,20 +14,24 @@ nav {
 nav ul {
   list-style-type: none;
   padding: 0;
+ margin: 0;
 
 }
 
 nav ul li {
   float: left;
+  margin: 0;
 }
 
 nav ul li a {
+  color: #fff
   text-decoration: none;
   text-transform: uppercase;
   font-family: Aprial, sane-serif;
   text-align: center;
   display: block;
   padding: 10px 20px;
+  width: 100%
 
 
   
