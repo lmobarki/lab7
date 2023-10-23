@@ -42,7 +42,6 @@ nav ul li a:hover {
  width: 20%;
  height: 100%;
  padding: 15px 0;
- height: 100%;
  
 }
 
@@ -50,7 +49,6 @@ nav ul li a:hover {
  #sidebar-container ul {
  list-style-type: none;
  padding: 0;
- right: 0;
 
  }
   
