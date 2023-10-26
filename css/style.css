@@ -1,18 +1,18 @@
 body {
-    background-color: #000;   
+  background-color: #000;   
 }
 
 
 .nav {
-    overflow: hidden;
+  overflow: hidden;
 }
 
 
 nav ul {
   list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 
@@ -22,9 +22,9 @@ nav ul li {
 
 
 nav ul li a {
-    padding: 10px 20px;
-    color: #fff;
-    text-decoration: none;
+   padding: 10px 20px;
+   color: #fff;
+   text-decoration: none;
 }
 
 
@@ -33,37 +33,35 @@ li a:hover {
 }
 
 
+
 #sidebar { 
- position: fixed;
- right: 0;
- width: 20%;
- height:0%;
- padding: 15px 0;
+  position: fixed;
+  right: 0;
+  background-color: red;
+  height: 100%;
+  width: 20%;
 }
 
 
- #sidebar-container ul {
- list-style-type: none;
- padding: 0;
-
+#sidebar-container ul {
+  list-style-type: none;
+  padding: 0;
  }
  
- 
-#sidebar-container ul li {
+#sidebar-container li {
+  text-align: center;
+  padding: 15px 0;
 }
 
 
 #sidebar-container ul li a {
   display: block;
   color: #fff;
-  text-decoration: none;
-  height: 100%;
-  text-align: center;
-  background-color: red; 
+  text-decoration: none; 
 }
 
-
-#sidebar-container ul li a:hover {
-  background-color: #000;
+li a:hover {
+   background-color: #000;
 }
+
 
