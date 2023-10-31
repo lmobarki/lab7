@@ -2,29 +2,35 @@ body {
   background-color: #000;   
 }
 
-
-.nav {
-  overflow: hidden;
+#main-navbar {
+    background-color: blue;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
 
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+#main-navbar ul {
+    margin: 0;
+    padding: 0;
 }
 
 
-nav ul li {
-  display: inline; 
+#main-navbar li {
+    display: inline;
+    margin: 0 20px;
+    position: relative;
 }
 
 
-nav ul li a {
-   padding: 10px 20px;
-   color: #fff;
-   text-decoration: none;
+#main-navbar a {
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
 }
 
 
